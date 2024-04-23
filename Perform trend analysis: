@@ -1,0 +1,1 @@
+trend = sa.detect_trend(stock_data)
