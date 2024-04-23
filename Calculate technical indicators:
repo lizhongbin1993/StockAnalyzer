@@ -1,0 +1,4 @@
+
+
+sma = sa.calculate_sma(stock_data, window=20)
+rsi = sa.calculate_rsi(stock_data, window=14)
