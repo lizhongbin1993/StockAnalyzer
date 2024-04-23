@@ -1,0 +1,7 @@
+import stockanalyzer as sa
+
+symbol = 'AAPL'
+start_date = '2022-01-01'
+end_date = '2022-12-31'
+
+stock_data = sa.fetch_stock_data(symbol, start_date, end_date)
