@@ -1,0 +1,3 @@
+sa.plot_candlestick(stock_data)
+sa.plot_line(stock_data, indicator=sma)
+sa.plot_area(stock_data, indicator=rsi)
