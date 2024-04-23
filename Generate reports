@@ -1,0 +1,2 @@
+report = sa.generate_report(stock_data)
+print(report)
